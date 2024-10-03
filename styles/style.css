@@ -6,14 +6,10 @@ body {
   display: grid;
   grid-template-columns: 1fr 148px 1fr;
   align-items: center;
-  padding: 92px 24px 96px;
+  padding: 92px 50px 96px;
   color: #000;
   font-weight: 400;
   font-size: 18px;
-}
-
-.header__menu {
-  padding-left: 26px;
 }
 
 .header__links-list {
@@ -62,8 +58,7 @@ body {
   justify-content: center;
   align-items: baseline;
   max-width: 240px;
-  margin-right: 35px;
-  padding-right: 26px;
+  padding-right: 35px;
   color: #000;
   font-weight: 400;
   font-size: 18px;
