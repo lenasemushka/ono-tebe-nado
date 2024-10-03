@@ -55,7 +55,7 @@ body {
   height: 100%;
 }
 
-.address { 
+.address {
   display: flex;
   flex-direction: column;
   justify-self: end;
@@ -156,7 +156,7 @@ body {
   letter-spacing: 1.1em;
 }
 
-.bet-button { 
+.bet-button {
   width: 256px;
   height: 51px;
   margin-right: 50px;
